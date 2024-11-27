@@ -1,4 +1,4 @@
-module github.com/chill-cats/go_add
+module github.com/chill-cats/go_add/v2
 
 go 1.23.3
 
